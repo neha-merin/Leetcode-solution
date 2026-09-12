@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/neha-merin/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [1920-build-array-from-permutation](https://github.com/neha-merin/Leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/neha-merin/Leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3901-good-subsequence-queries](https://github.com/neha-merin/Leetcode-solution/tree/master/3901-good-subsequence-queries) |
@@ -24,4 +25,12 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/neha-merin/Leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/neha-merin/Leetcode-solution/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/neha-merin/Leetcode-solution/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/neha-merin/Leetcode-solution/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
