@@ -8,9 +8,8 @@ class Solution:
             countS[ch]=1+countS.get(ch,0)
         for ch in t:
             countT[ch]=1+countT.get(ch,0)
-        for ch in countS:
-            if countT!=countS:
-                return False
+        if countT!=countS:
+            return False
         return True
         
         
