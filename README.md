@@ -7,6 +7,7 @@
 | [0217-contains-duplicate](https://github.com/neha-merin/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neha-merin/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/neha-merin/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [1207-unique-number-of-occurrences](https://github.com/neha-merin/Leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
 | [1920-build-array-from-permutation](https://github.com/neha-merin/Leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/neha-merin/Leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3901-good-subsequence-queries](https://github.com/neha-merin/Leetcode-solution/tree/master/3901-good-subsequence-queries) |
@@ -34,6 +35,7 @@
 | [0219-contains-duplicate-ii](https://github.com/neha-merin/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/neha-merin/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/neha-merin/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [1207-unique-number-of-occurrences](https://github.com/neha-merin/Leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
