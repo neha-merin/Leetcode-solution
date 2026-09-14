@@ -7,6 +7,7 @@
 | [0049-group-anagrams](https://github.com/neha-merin/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/neha-merin/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neha-merin/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/neha-merin/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/neha-merin/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/neha-merin/Leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
 | [1920-build-array-from-permutation](https://github.com/neha-merin/Leetcode-solution/tree/master/1920-build-array-from-permutation) |
@@ -36,6 +37,7 @@
 | [0217-contains-duplicate](https://github.com/neha-merin/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neha-merin/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/neha-merin/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/neha-merin/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/neha-merin/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/neha-merin/Leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
@@ -44,6 +46,7 @@
 | [0049-group-anagrams](https://github.com/neha-merin/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/neha-merin/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neha-merin/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/neha-merin/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/neha-merin/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -62,4 +65,24 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/neha-merin/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/neha-merin/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/neha-merin/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/neha-merin/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/neha-merin/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/neha-merin/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
