@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/neha-merin/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/neha-merin/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neha-merin/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/neha-merin/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/neha-merin/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/neha-merin/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/neha-merin/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/neha-merin/Leetcode-solution/tree/master/0242-valid-anagram) |
@@ -39,12 +41,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/neha-merin/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/neha-merin/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/neha-merin/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/neha-merin/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/neha-merin/Leetcode-solution/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/neha-merin/Leetcode-solution/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
