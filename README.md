@@ -9,6 +9,7 @@
 | [0219-contains-duplicate-ii](https://github.com/neha-merin/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/neha-merin/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/neha-merin/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/neha-merin/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/neha-merin/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/neha-merin/Leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
 | [1732-find-the-highest-altitude](https://github.com/neha-merin/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
@@ -43,6 +44,7 @@
 | [0347-top-k-frequent-elements](https://github.com/neha-merin/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/neha-merin/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/neha-merin/Leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/neha-merin/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/neha-merin/Leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
@@ -97,6 +99,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/neha-merin/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/neha-merin/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/neha-merin/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/neha-merin/Leetcode-solution/tree/master/1991-find-the-middle-index-in-array) |
