@@ -9,6 +9,7 @@
 | [0219-contains-duplicate-ii](https://github.com/neha-merin/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/neha-merin/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/neha-merin/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0724-find-pivot-index](https://github.com/neha-merin/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/neha-merin/Leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
 | [1920-build-array-from-permutation](https://github.com/neha-merin/Leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/neha-merin/Leetcode-solution/tree/master/1929-concatenation-of-array) |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/neha-merin/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/neha-merin/Leetcode-solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
