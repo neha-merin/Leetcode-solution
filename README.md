@@ -13,6 +13,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/neha-merin/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/neha-merin/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/neha-merin/Leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/neha-merin/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/neha-merin/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/neha-merin/Leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/neha-merin/Leetcode-solution/tree/master/1929-concatenation-of-array) |
@@ -21,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/neha-merin/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [3901-good-subsequence-queries](https://github.com/neha-merin/Leetcode-solution/tree/master/3901-good-subsequence-queries) |
 ## Segment Tree
 |  |
@@ -48,6 +50,7 @@
 | [0525-contiguous-array](https://github.com/neha-merin/Leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/neha-merin/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/neha-merin/Leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/neha-merin/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +70,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/neha-merin/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/neha-merin/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +108,7 @@
 | [0525-contiguous-array](https://github.com/neha-merin/Leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/neha-merin/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/neha-merin/Leetcode-solution/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/neha-merin/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/neha-merin/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/neha-merin/Leetcode-solution/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
