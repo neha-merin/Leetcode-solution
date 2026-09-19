@@ -14,6 +14,7 @@
 | [0724-find-pivot-index](https://github.com/neha-merin/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/neha-merin/Leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/neha-merin/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/neha-merin/Leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/neha-merin/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/neha-merin/Leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/neha-merin/Leetcode-solution/tree/master/1929-concatenation-of-array) |
@@ -51,6 +52,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/neha-merin/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/neha-merin/Leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/neha-merin/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/neha-merin/Leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/neha-merin/Leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/neha-merin/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/neha-merin/Leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/neha-merin/Leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/neha-merin/Leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/neha-merin/Leetcode-solution/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
